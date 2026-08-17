@@ -8,7 +8,7 @@ class EmployeeDetails
     {
         empId = id;
         empName = name;
-        salary = sal;
+           salary = sal;   
     }
 
     void display()
