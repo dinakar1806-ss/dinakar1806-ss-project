@@ -39,7 +39,7 @@ public class TimeManagementSystem {
 
         System.out.print("Enter Task ID: ");
         int id = sc.nextInt();
-        sc.nextLine();
+        sc.nextLine();     
 
         System.out.print("Enter Task Name: ");
         String name = sc.nextLine();
